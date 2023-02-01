@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+legend {
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+fieldset {
+    margin-bottom: 10px;
+    padding: 4px;
+    font-weight: bold;
+    border-radius: 12px;
+    background-color: rgb(204, 221, 224);
+}
+
+img {
+    margin: 5px;
+    border: solid 4px black;
+}
+
+
+
